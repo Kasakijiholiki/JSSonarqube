@@ -2,7 +2,7 @@
 <testExecutions version="1">
     <file path="/home/tong/Documents/MyProject/JSSonarqube/test/sum.test.js">
         <testCase name="adds 1 + 2 to equal 3" duration="4"/>
-        <testCase name="adds 1 + 2 to equal 3" duration="3">
+        <testCase name="adds 1 + 2 to equal 3" duration="7">
             <failure message="Error: expect(received).toBe(expected) // Object.is equality"><![CDATA[Error: expect(received).toBe(expected) // Object.is equality
 
 Expected: 6
@@ -11,8 +11,7 @@ Received: 3
     at Promise (/home/tong/Documents/MyProject/JSSonarqube/node_modules/jest-circus/build/utils.js:390:28)
     at new Promise (<anonymous>)
     at callAsyncCircusFn (/home/tong/Documents/MyProject/JSSonarqube/node_modules/jest-circus/build/utils.js:315:10)
-    at _callCircusTest (/home/tong/Documents/MyProject/JSSonarqube/node_modules/jest-circus/build/run.js:218:40)
-    at process._tickCallback (internal/process/next_tick.js:68:7)]]></failure>
+    at _callCircusTest (/home/tong/Documents/MyProject/JSSonarqube/node_modules/jest-circus/build/run.js:218:40)]]></failure>
         </testCase>
     </file>
 </testExecutions>

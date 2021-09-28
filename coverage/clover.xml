@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1632838609508" clover="3.2.0">
-  <project timestamp="1632838609508" name="All files">
+<coverage generated="1632838761593" clover="3.2.0">
+  <project timestamp="1632838761593" name="All files">
     <metrics statements="5" coveredstatements="4" conditionals="2" coveredconditionals="1" methods="1" coveredmethods="1" elements="8" coveredelements="6" complexity="0" loc="5" ncloc="5" packages="1" files="1" classes="1"/>
     <file name="sum.js" path="/home/tong/Documents/MyProject/JSSonarqube/src/sum.js">
       <metrics statements="5" coveredstatements="4" conditionals="2" coveredconditionals="1" methods="1" coveredmethods="1"/>
